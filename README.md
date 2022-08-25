@@ -1,4 +1,6 @@
-# CFT-Labs-Internship ## Installation
+# CFT-Labs-Internship 
+
+## Installation
 ```sh 
 git clone https://github.com/suvadeep2001/CFT-Labs-Internship 
 npm install 
